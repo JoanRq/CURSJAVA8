@@ -2,7 +2,7 @@ public class Paso5 {
   public static void main(String[] args) {
     int numero = 1;
     String letras = "abc";
-    numero(numero);
+    numero = numero(numero);
     letras = letras(letras);
     System.out.println(numero + letras);
   }
