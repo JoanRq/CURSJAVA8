@@ -1,0 +1,19 @@
+public class TresEnRaya{
+   
+   tablero;
+   
+   public static void main(String[] args){
+    
+    //asignar valores
+
+
+    
+    int [][] arrayBI = {{1,2,3},{1,2,3},{1,2,3}};
+    BUCLE_EXT: for (int[] simple: arrayBi) {
+      BUCLE_INT: for (i=0; i<simple.length; i++){
+      }
+    }
+   }
+   
+   public static 
+}
