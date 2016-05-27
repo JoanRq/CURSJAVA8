@@ -27,7 +27,6 @@ public class Ventura implements ActionListener{
     JButton boton = new JButton("Botonazo");
     marco.add(boton);
     boton.addActionListener(new ClickB1());
-    boton.addActionListener(new ClickB2());
     
     marco.setVisible(true);
     
