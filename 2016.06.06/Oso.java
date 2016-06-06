@@ -1,0 +1,1 @@
+public abstract class Oso implements Herbívoro, Omnívoro {}

@@ -1,0 +1,1 @@
+//public interface HerbOmni extends Herbívoro {}
