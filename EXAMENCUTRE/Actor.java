@@ -2,8 +2,6 @@ package modelo;
 
 import modelo.Paper;
 
-import java.util.ArrayList;
-
 public class Actor extends Persona{
   Paper paper;
   
