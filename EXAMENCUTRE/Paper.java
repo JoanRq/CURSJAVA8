@@ -1,6 +1,6 @@
 package modelo;
 
-public class Paper {
+public class Paper {    // afegit perque compili
   private String paper; // HAURIA DE SER UNA ARRAYlIST DELS 
                         // PAPERS DE LA REPRESENTACIO (SEGONS EL MEU MODEL)
   
